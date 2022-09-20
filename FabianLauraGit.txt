@@ -1,0 +1,8 @@
+Zin //Fabian
+
+checkout master
+git branch -a featurebranch
+git pull
+git checkout featurebranch
+git merge master
+git push
